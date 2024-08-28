@@ -14,10 +14,10 @@ ul{
 }
 .menu li{
     list-style: none;
-    width: 200px;
+    width: auto;
     height: 50px;
     background-color:rebeccapurple;
-    margin-left: 10px;
+    margin-left: auto;
     text-align:center;
     line-height: 50px;
     float: left;
