@@ -17,8 +17,8 @@ ul{
     width: 200px;
     height: 50px;
     background-color:rebeccapurple;
-    margin-left: auto;
-    text-align: 10px;
+    margin-left: 10px;
+    text-align: center;
     line-height: 50px;
     float: left;
 }
